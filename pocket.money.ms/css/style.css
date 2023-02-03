@@ -1,0 +1,32 @@
+ul {
+  justify-content: space-around;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+.footer {
+  bottom: 0;
+  width: 100%;
+  position: relative;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.active {
+  border-top: solid rgb(247, 243, 243);
+  border-radius: 7px;
+  padding: 5px;
+}
+.bodysection {
+  min-height: 500px;
+  overflow-y: scroll;
+}
+.student-nav a {
+  color: aliceblue;
+  font-size: 18px;
+  font-weight: bold;
+}
+.login {
+  box-shadow: 3px 3px lightgreen;
+}
