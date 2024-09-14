@@ -1,1 +1,1 @@
-# pocket money application
+# Pocket money Management System application
